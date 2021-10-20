@@ -14,6 +14,7 @@ The First thing we did was make the board. It was just a rectangle with some fil
 
 ### Image 
 
+<img src="Images/Screenshot 2021-10-20 093817.png" width="800" Height="400">
 
 -------
 
