@@ -18,7 +18,8 @@ https://cvilleschools.onshape.com/documents/747e4df5c14bf8f31608c31c/w/48a083c0c
 
 ### Image 
 
-<img src="Images/Screenshot 2021-10-20 093817.png" width="800" Height="400">
+<img src="Images/Screenshot 2021-10-20 093817.png" width="800" hyeight="400">
+<img src="Images/Screenshot 2021-10-28 093140.png" width="800" height="400"
 
 ### Useful Tips 
 
