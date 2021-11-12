@@ -40,15 +40,32 @@ https://cvilleschools.onshape.com/documents/747e4df5c14bf8f31608c31c/w/48a083c0c
 
 -------
 
-## Brick 
+## Legos  
 
 ### Description 
 
+Definitely the Best Onshape Assignment. We made legos and used configurations and snap mates to make things 
 
+### Evidence 
+
+https://cvilleschools.onshape.com/documents/18c55e9aeb64057e8e0fbb6a/w/5c06b8e3c4dcf6e948152fa4/e/e0494595127cd0cd5703492a?renderMode=0&uiState=618e8227e192782b82b59251
 
 ### Process
 
 
+
+### Image 
+
+### Useful Tips
+-------
+
+## Multitool  
+
+### Description 
+
+### Evidence 
+
+### Process
 
 ### Image 
 
